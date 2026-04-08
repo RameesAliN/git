@@ -1,3 +1,4 @@
 version 3
 branch value
-value2
+value
+after merge
